@@ -1,0 +1,178 @@
+lang
+  read
+  eval
+  call
+  macro
+  alias
+  define
+  import
+  exception
+
+core
+  for
+  each
+  while
+  in
+  if
+  ei
+  el
+
+math
+  sum
+  max
+  min
+  sqrt
+  cbrt
+  round
+  trunc
+  floor
+  ceil
+  clamp
+  sign
+  sin
+  sinh
+  cos
+  cosh
+  tan
+  tanh
+  asin
+  acos
+  atan
+  pow
+  exp
+  log
+  log10
+  ln
+
+math2
+  vector
+  matrix
+  polynomial
+  differentiate
+  integrate
+  dotProduct
+  crossProduct
+  matrixMultiply
+  distance
+  toPolar
+  toRectangular
+  toSpherical
+  toCylindrical
+  toCartesian
+
+math3
+  intersects
+  raytrace
+  cube
+  cylindrical
+  sphere
+  cone
+  box
+
+random
+  random
+  randRange
+  choice
+
+functional
+  map
+  filter
+  reduce
+  foldr
+  foldl
+  curry
+  curryr
+  uncurry
+  uncurryl
+  defer
+  once
+  debounce
+  throttle
+  delay
+  memoize
+  repeat
+  after
+  before
+  apply
+  call
+  car
+  cdr
+  cadr
+  cddr
+  caddr
+  cdddr
+  cadddr
+
+io
+  ioStream
+  print
+  sPrint
+  printF
+  sPrintF
+  toStream
+  fromStream
+
+memory
+
+collection
+  iterable
+  list
+  array
+  tuple
+  hashmap
+  all
+  any
+  sorted
+
+structures
+  collection
+  queue
+  priority queue
+  deque
+  stack
+  bag
+  graph
+  binary tree
+  heap
+  set
+  multiset
+  multimap
+
+sync
+  co
+  chan
+  wait
+  async
+  await
+
+http
+  request
+
+wavefront
+  obj
+  mat
+
+image
+  png
+  jpeg
+  gif
+  bmp
+
+audio
+  vorbis
+  flac
+  alac
+  mp3
+
+style
+  css
+
+markup
+  stml parsing tools
+
+
+
+javascript
+c
+gl
+sql
